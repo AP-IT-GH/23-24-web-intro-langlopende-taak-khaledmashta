@@ -1,0 +1,22 @@
+.text {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbarcolor{
+    color: white; 
+    font-size: x-large;
+}
+.backgroundcolor{
+    background-color: #eb9c53;
+}
+.navbarbackground{
+    background-color: #94C6F2;
+}
+.fontsize{
+    font-size: xx-large;
+}
+.text2{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
